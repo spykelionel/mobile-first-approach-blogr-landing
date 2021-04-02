@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/spykelion/mobile-first-approach-blogr-landing-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Source Code](https://github.com/spykelion/mobile-first-approach-blogr-landing-page)
+- Live Site URL: [landing-page-mobile-first-blogr](https://landing-page-mobile-first.netlify.app/)
 
 ## My process
 
